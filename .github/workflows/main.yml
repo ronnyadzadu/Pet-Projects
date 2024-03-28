@@ -19,4 +19,3 @@ jobs:
         uses: cypress-io/github-action@v6.6.1
         with:
           browser: chrome
-          working-directory: ./Week-10-cy-automation
