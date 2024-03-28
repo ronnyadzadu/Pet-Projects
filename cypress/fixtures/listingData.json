@@ -1,0 +1,14 @@
+{
+    "title": "Ronny Studio",
+    "description": "Come see this impeccably maintained 4 bed, 2 full bath, 2 half bath home in the heart of Palmer Square!",
+    "address": "4528 w 142nd st",
+    "city": "New Castle",
+    "state": "Delaware",
+    "zipCode": "91942",
+    "price": 3005600,
+    "bedrooms": 9,
+    "bathrooms": 5,
+    "garage": 20,
+    "sqft": 2000,
+    "lotSize": 1000
+}
