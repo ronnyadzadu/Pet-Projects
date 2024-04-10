@@ -1,0 +1,8 @@
+{
+    "errorMsgEmail": "Email is required",
+    "errorMsgPassword": "Password is required",
+    "errorMsgFirstName": "First name required",
+    "errorMsgLastName": "Last name required",
+    "errorMsgLogin": "Wrong email or password",
+    "errorMsgDuplicateUser": "Input data validation failed"
+}
